@@ -1,0 +1,11 @@
+C:\Users\Marija\Desktop\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\Marija\Desktop\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\Marija\Desktop\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.AssemblyReference.cache
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.cache
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\Marija\Desktop\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
